@@ -10,7 +10,13 @@ Nemesis Market is a unique and exciting clandestine network Nemesis market link 
 
 ## Nemesis Market Link:
 
-- [Nemesis Market](http://nemesis5a42d6yb6rhsic5scq5kroykitplnzvda33l4gxuhxtmqyrid.onion) - `http://nemesis5a42d6yb6rhsic5scq5kroykitplnzvda33l4gxuhxtmqyrid.onion`
+- [Abacus Market](http://abacus-markets.com) - `http://abacus7ygil56glanhj3oai2gap6pomy5tevunbvv3lbo3jg7zua7yid.onion`
+  
+- [Archetyp Market](http://4pt4axjmg2gwms2dyakkvyrdt3wr7zygbstfkdkrlz5bkyouhafrbvyd.onion) - `http://4pt4axjmg2gwms2dyakkvyrdt3wr7zygbstfkdkrlz5bkyouhafrbvyd.onion`
+
+- [Ares Market](http://ares3oxm6nb7ucudpp5ezyzffqv6ftg7gq6lttj4yic3wyfqdcj3oyyd.onion) - `http://ares3oxm6nb7ucudpp5ezyzffqv6ftg7gq6lttj4yic3wyfqdcj3oyyd.onion`
+ 
+- [Nemesis Market](http://67yacluggxrd4qxlvmuhvkm4qen767bugxdsfseemxhkohgy5jeh6aad.onion) - `http://67yacluggxrd4qxlvmuhvkm4qen767bugxdsfseemxhkohgy5jeh6aad.onion`
 
 
 
